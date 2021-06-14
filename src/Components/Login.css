@@ -1,0 +1,29 @@
+    .Login {
+      padding: 60px 0;
+      /* background-color: bisque; */
+      ;
+      /* height: 732px; */
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+    .Login button {
+        margin-left: 96px;
+      }
+    
+    .Login-Header{
+        font-size: xxx-large;
+        font-family: emoji;
+        padding: 0px 70px;  
+    }
+
+    .container-wrapper {
+        background-color: bisque;
+        padding: 25px;
+        box-shadow:rgb(0 0 0) 0px 3px 34px
+      }
+
+    
+    

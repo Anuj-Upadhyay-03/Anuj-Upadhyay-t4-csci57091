@@ -1,0 +1,32 @@
+.Profiledetails {
+    padding: 20px 0;
+    /* background-color: bisque; */
+    height: 732px;
+  }
+  .Profiledetails-Header{
+    font-size: xxx-large;
+    font-family: emoji;
+}
+  .Profiledetails form {
+    margin: 0 auto;
+    max-width: 577px;
+  }
+
+  .Profiledetails form img{
+    padding: 10px 111px;
+  }
+
+.container-wrapper-profiledetails{
+    background-color: bisque;
+margin-bottom: 25px;
+padding: 33px;
+box-shadow: rgb(0 0 0) 0px 3px 34px;
+max-width: 444px;
+cursor: pointer;
+border-radius: 22px;
+}
+.font-style-div{
+    margin-left: 75px;
+    font-family: emoji;
+    font-weight: 600;
+}

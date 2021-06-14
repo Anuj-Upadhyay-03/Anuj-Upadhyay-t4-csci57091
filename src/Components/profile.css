@@ -1,0 +1,31 @@
+.Profile {
+    padding: 20px 0;
+    /* background-color: burlywood; */
+    height: 732px;
+  }
+  
+
+  .Profile form {
+    margin: 0 auto;
+    max-width: 600px;
+    /* background-color: burlywood !important; */
+  }
+
+
+  .Profile-Header{
+    font-size: xxx-large;
+    font-family: emoji;
+}
+
+
+
+.container-wrapper-profile{
+    background-color: bisque;
+    display:flex;
+margin-bottom: 25px;
+padding: 33px;
+box-shadow: rgb(0 0 0) 0px 3px 34px;
+max-width: 580px;
+border-radius: 22px;
+cursor: pointer;
+}
